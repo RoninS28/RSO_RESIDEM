@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RSO_RESIDEM.iml" filepath="$PROJECT_DIR$/RSO_RESIDEM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/RSO_RESIDEM.iml" filepath="$PROJECT_DIR$/.idea/RSO_RESIDEM.iml" />
     </modules>
   </component>
 </project>
